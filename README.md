@@ -11,3 +11,8 @@ Dans ce deuxième cours de la spécialisation deeplearning.ai TensorFlow, j'ai a
 ## Cours 3
 
 Dans ce troisième cours de la spécialisation deeplearning.ai TensorFlow, j'ai créer des systèmes de traitement du langage naturel à l'aide de TensorFlow. j'ai appris à traiter du texte, y compris la tokenisation et la représentation de phrases sous forme de vecteurs, afin qu'elles puissent être entrées dans un réseau de neurones. j'ai appris également à appliquer les RNN, les GRU et les LSTM dans TensorFlow. Enfin, j'ai formé un modèle LSTM sur un texte existant pour créer une poésie originale !
+
+
+## Cours 4
+
+Dans ce quatrième cours, j'ai appris à créer des modèles de séries chronologiques dans TensorFlow. j'ai appris d'abord à mettre en œuvre les meilleures pratiques pour préparer les données de séries chronologiques. j'ai découvert également comment les RNN et les ConvNets 1D peuvent être utilisés pour la prédiction. Enfin, j'ai appliqué tout ce que j'ai appris tout au long de la spécialisation pour créer un modèle de prédiction des taches sunspot à l'aide de données du monde réel !
